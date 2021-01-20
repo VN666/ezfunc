@@ -1,0 +1,2 @@
+# ezfunc
+javascript utils
